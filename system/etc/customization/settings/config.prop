@@ -1,0 +1,7 @@
+######################## Customized property values #########################
+ro.product.locale.language=de
+ro.product.locale.region=DE
+ro.telephony.default_network=9
+ro.cst.prm=1271-0334:R2E
+#############################################################################
+
