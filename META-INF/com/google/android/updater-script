@@ -241,6 +241,7 @@ run_program("/sbin/busybox", "sh", "/tmp/SuperSU/META-INF/com/google/android/upd
 set_progress(1.0);
 unmount("/system");
 show_progress(0.100000, 0);
+package_extract_file("boot.img", "/dev/block/platform/msm_sdcc.1/by-name/boot");
 ui_print("Done");
 ui_print("Enjoy!");
 
