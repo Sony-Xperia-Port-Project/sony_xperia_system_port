@@ -60,7 +60,7 @@ symlink("/system/lib/libMiscTaAccessor.so", "/system/app/bootinfo/lib/arm/libMis
 symlink("/system/lib/libcrashmonitorjni.so", "/system/app/CrashMonitor/lib/arm/libcrashmonitorjni.so");
 symlink("/system/lib/libcrashmonitorjni.so", "/system/app/CrashMonitorSystem/lib/arm/libcrashmonitorjni.so");
 symlink("/system/lib/libdrmdialogs.so", "/system/app/DrmDialogs/lib/arm/libdrmdialogs.so");
-symlink("/system/lib/libnfc_jni.so", "/system/app/Nfc/lib/arm/libnfc_jni.so");
+symlink("/system/lib/libnfc_nci_jni.so", "/system/app/NfcNci/lib/arm/libnfc_nci_jni.so");
 symlink("/system/lib/libjni_pacprocessor.so", "/system/app/PacProcessor/lib/arm/libjni_pacprocessor.so");
 symlink("/system/lib/libprintspooler_jni.so", "/system/app/PrintSpooler/lib/arm/libprintspooler_jni.so");
 symlink("/system/lib/libservicemenu.so", "/system/app/ServiceMenu/lib/arm/libservicemenu.so");
